@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pocpwa-staging-132535-authRole",
+      "UnauthRoleArn": "arn:aws:iam::401713041411:role/amplify-pocpwa-staging-132535-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::401713041411:role/amplify-pocpwa-staging-132535-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-pocpwa-staging-132535-deployment",
+      "UnauthRoleName": "amplify-pocpwa-staging-132535-unauthRole",
+      "StackName": "amplify-pocpwa-staging-132535",
+      "StackId": "arn:aws:cloudformation:us-east-1:401713041411:stack/amplify-pocpwa-staging-132535/11b51ef0-2c81-11ee-8dff-0ed8b8ed331b",
+      "AmplifyAppId": "dst0f3ph4z63y"
+    }
+  }
+}
